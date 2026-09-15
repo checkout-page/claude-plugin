@@ -1,5 +1,6 @@
 {
   "name": "checkout-page",
+  "version": "1.0.0",
   "description": "Checkout Page integration. Create and manage checkout pages, event ticketing, forms, customers, payments and subscriptions from Claude Code.",
   "author": {
     "name": "Checkout Page",

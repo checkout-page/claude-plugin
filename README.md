@@ -19,7 +19,7 @@ Then run `/mcp`, pick **checkout-page** and sign in with your Checkout Page acco
 - Build forms and custom fields
 - Create coupons, tax rates and webhooks
 
-The full tool list is at [checkoutpage.com/docs/mcp](https://checkoutpage.com/docs/mcp).
+The full tool list is at [checkoutpage.com/docs/build/mcp](https://checkoutpage.com/docs/build/mcp).
 
 ## Try it locally
 
