@@ -1,6 +1,8 @@
 {
-  "checkout-page": {
-    "type": "http",
-    "url": "https://mcp.checkoutpage.com"
+  "mcpServers": {
+    "checkout-page": {
+      "type": "http",
+      "url": "https://mcp.checkoutpage.com"
+    }
   }
 }
