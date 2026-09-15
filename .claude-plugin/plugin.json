@@ -1,0 +1,12 @@
+{
+  "name": "checkout-page",
+  "description": "Checkout Page integration. Create and manage checkout pages, event ticketing, forms, customers, payments and subscriptions from Claude Code.",
+  "author": {
+    "name": "Checkout Page",
+    "url": "https://checkoutpage.com"
+  },
+  "homepage": "https://checkoutpage.com",
+  "repository": "https://github.com/checkout-page/claude-plugin",
+  "license": "MIT",
+  "keywords": ["checkout", "payments", "stripe", "events", "ticketing", "subscriptions"]
+}

@@ -1,0 +1,6 @@
+{
+  "checkout-page": {
+    "type": "http",
+    "url": "https://mcp.checkoutpage.com"
+  }
+}
