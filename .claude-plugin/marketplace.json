@@ -11,8 +11,9 @@
     {
       "name": "checkout-page",
       "source": ".",
-      "description": "Create and manage checkout pages, event ticketing, forms, customers, payments and subscriptions from Claude Code.",
-      "category": "productivity"
+      "description": "Create checkout pages, sell event tickets, collect form submissions, and manage customers, payments and subscriptions in your Checkout Page account. Payments go straight to your own Stripe account.",
+      "category": "productivity",
+      "displayName": "Checkout Page"
     }
   ]
 }
