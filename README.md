@@ -11,13 +11,6 @@ From the Checkout Page marketplace:
 /plugin install checkout-page@checkout-page
 ```
 
-Or from the Claude community marketplace:
-
-```
-/plugin marketplace add anthropics/claude-plugins-community
-/plugin install checkout-page@claude-community
-```
-
 Then run `/mcp`, pick **checkout-page** and sign in with your Checkout Page account. The plugin talks to `https://mcp.checkoutpage.com` and uses OAuth, so there are no API keys to paste.
 
 ## What you can do
