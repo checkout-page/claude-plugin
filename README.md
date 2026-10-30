@@ -13,6 +13,22 @@ From the Checkout Page marketplace:
 
 Then run `/mcp`, pick **checkout-page** and sign in with your Checkout Page account. The plugin talks to `https://mcp.checkoutpage.com` and uses OAuth, so there are no API keys to paste.
 
+## Cursor
+
+Install Checkout Page from the Cursor Marketplace, or add it by hand in `~/.cursor/mcp.json`:
+
+```json
+{
+  "mcpServers": {
+    "checkout-page": {
+      "url": "https://mcp.checkoutpage.com"
+    }
+  }
+}
+```
+
+Cursor opens your browser to sign in with your Checkout Page account.
+
 ## What you can do
 
 - List, create and update checkout pages, and update their products and prices

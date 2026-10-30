@@ -1,0 +1,14 @@
+{
+  "name": "checkout-page",
+  "version": "1.1.0",
+  "description": "Create checkout pages, sell event tickets, collect form submissions, and manage customers, payments and subscriptions in your Checkout Page account. Payments go straight to your own Stripe account.",
+  "author": {
+    "name": "Checkout Page",
+    "email": "support@checkoutpage.com"
+  },
+  "homepage": "https://checkoutpage.com/mcp",
+  "repository": "https://github.com/checkout-page/claude-plugin",
+  "license": "MIT",
+  "keywords": ["checkout", "payments", "stripe", "events", "ticketing", "subscriptions", "forms", "mcp"],
+  "logo": "logo.png"
+}
